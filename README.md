@@ -14,9 +14,10 @@ Para generar una **documentación clara y detallada** sobre cómo desplegar y ut
    - [Frontend (React)](#despliegue-del-frontend)
    - [Base de Datos (MySQL)](#configuración-de-la-base-de-datos)
 4. [Uso del Sistema](#uso-del-sistema)
-   - [Ingreso de Notas](#ingreso-de-notas)
+   - [Registro de Notas](#Registro-de-Notas)
+   - [Edicion de Notas](#Edicion-de-Notas)
+   - [Eliminación de Registros](#Eliminación-de-Registros)
    - [Visualización de Notas](#visualización-de-notas)
-5. [Imágenes Sugeridas](#imágenes-sugeridas)
 
 ---
 
