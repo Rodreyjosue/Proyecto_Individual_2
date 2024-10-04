@@ -6,8 +6,8 @@ CREATE TABLE notas (
     estudiante VARCHAR (225) NOT NULL,
     actividades INT NOT NULL CHECK (actividades <= 35),
     primer_Parcial INT NOT NULL CHECK (primer_Parcial <= 15),
-    segundoParcial INT NOT NULL CHECK (segundoParcial <= 15),
-    examenFinal INT NOT NULL CHECK (examenFinal <= 35),
+    segundo_Parcial INT NOT NULL CHECK (segundo_Parcial <= 15),
+    examen_Final INT NOT NULL CHECK (examen_Final <= 35),
     notaFinal INT NOT NULL
 );
 
